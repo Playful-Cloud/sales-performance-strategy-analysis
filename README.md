@@ -67,6 +67,66 @@ To support adoption, the sales team implemented three outreach strategies:
 └── .gitignore         # Files/folders to exclude from Git
 
 ```
+---
+
+## Data Validation  
+**Notebook:** `01_data_validation.ipynb`
+
+This phase focuses strictly on assessing data quality before performing analysis.
+
+### Key Validation Checks:
+- Structural consistency (one row per customer)
+- Missing value assessment
+- Categorical standardization
+- Outlier detection
+- Data type verification
+
+### Findings:
+- 15,000 customers across 8 features
+- ~7% missing revenue values
+- Inconsistent formatting in `sales_method`
+- Unrealistic tenure value detected (63 years)
+- Slight positive skew in revenue distribution
+
+The dataset was deemed structurally sound with minor, correctable issues.
+
+---
+
+## Exploratory Data Analysis  
+**Notebook:** `02_eda.ipynb`
+
+This phase explores customer behavior and revenue patterns to uncover relationships and trends.
+
+### Areas Explored:
+- Revenue distribution and skewness
+- Sales volume patterns
+- Website engagement behavior
+- Customer tenure distribution
+- Sales strategy comparisons
+
+### Key Observations:
+- Revenue shows mild right skew (high-value customers pull the mean upward)
+- Most customers purchase between 9–11 units
+- Website engagement is stable across segments
+- Strategy-based revenue differences begin to emerge
+
+---
+
+## Strategy Performance Analysis  
+**Notebook:** `03_analysis.ipynb`
+
+This phase evaluates the relative effectiveness of each sales strategy.
+
+### Focus Areas:
+- Revenue comparison across sales methods
+- Week-over-week performance trends (Weeks 1–6)
+- Statistical comparison of strategies
+- Customer behavior segmentation
+
+### Core Insight:
+The **Email + Call strategy consistently generates higher revenue** compared to single-channel approaches.
+
+This suggests that multi-touch outreach increases customer conversion and purchase volume.
 
 ---
 
