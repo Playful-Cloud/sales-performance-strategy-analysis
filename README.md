@@ -48,29 +48,27 @@ To support adoption, the sales team implemented three outreach strategies:
 
 ---
 
-
 ## Project Structure
 
 '''
 
 ### sales-performance-strategy-analysis/
-├── data/                  	# Raw and processed data
+├── data/              # Raw and processed data
 │
-├── Docs/                  	# Documentation, Instruction
+├── Docs/              # Documentation, Instruction
 │
-├── notebooks/             	# Jupyter notebooks with analysis
+├── notebooks/         # Jupyter notebooks with analysis
 │   ├── 01_data_validation/   	# Exploratory Data Analysis
 │   ├── 02_eda/ 		# Data Cleaning and Transformation
-│   └── 03_analysis/     	# Data Analysis & Statistical Testing
+│   └── 03_analysis/  	# Data Analysis & Statistical Testing
 │
-├── README.md              	# Project documentation
+├── README.md          # Project documentation
 │
-└── .gitignore             	# Files/folders to exclude from Git
+└── .gitignore         # Files/folders to exclude from Git
 
 '''
 
-
-
+---
 
 
 
