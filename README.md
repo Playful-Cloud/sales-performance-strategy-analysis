@@ -1,4 +1,4 @@
-\#Sales Performance \& Strategy Analysis
+#Sales Performance \& Strategy Analysis
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## Executive Summary
+## Executive Summary
 
 
 
