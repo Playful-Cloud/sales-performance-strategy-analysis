@@ -1,2 +1,0 @@
-\# Sales Performance \& Strategy Analysis
-
