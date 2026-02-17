@@ -52,7 +52,7 @@ To support adoption, the sales team implemented three outreach strategies:
 
 ```text
 
-sales-performance-strategy-analysis
+#### sales-performance-strategy-analysis
 ├── data/              # Raw and processed data
 │
 ├── Docs/              # Documentation, Instruction
