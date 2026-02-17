@@ -14,9 +14,9 @@ This project evaluates the effectiveness of three sales outreach strategies used
 
 Using a structured analytics workflow 
 
-'''
-- **Data Validation > Exploratory Data Analysis > Strategy Evaluation** -
-'''
+"""
+**Data Validation > Exploratory Data Analysis > Strategy Evaluation**
+"""
 
 the project identifies which approach drives the strongest revenue performance and provides data-backed recommendations.
 
