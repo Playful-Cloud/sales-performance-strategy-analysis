@@ -130,6 +130,60 @@ This suggests that multi-touch outreach increases customer conversion and purcha
 
 ---
 
+## Dataset Overview
+
+- 15,000 customer records  
+- 8 variables  
+- 6-week post-launch observation window  
+- One row per customer  
+
+### Key Variables
+
+| Variable | Description |
+|----------|------------|
+| sales_method | Outreach strategy used |
+| customer_id | Unique customer identifier |
+| nb_sold | Number of new products sold |
+| revenue | Revenue generated |
+| years_as_customer | Customer tenure |
+| nb_site_visits | Website visits (last 6 months) |
+| week | Weeks since product launch |
+| state | Customer location |
+
+---
+
+## Key Insights
+
+- Multi-channel outreach outperforms single-channel strategies  
+- Revenue distribution shows slight positive skew  
+- Minor data quality issues were identified and resolved  
+- Short 6-week time horizon limits long-term performance evaluation  
+
+---
+
+## Business Recommendations
+
+1. Prioritize the Email + Call strategy for high-value customers  
+2. Standardize sales input formats to prevent category inconsistencies  
+3. Extend tracking beyond 6 weeks to evaluate long-term retention  
+4. Further segment customers by tenure and engagement level  
+
+---
+
+## Tools & Technologies
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## Project Status
+
+Completed — end-to-end validation, exploration, and strategic evaluation delivered.
 
 
 
