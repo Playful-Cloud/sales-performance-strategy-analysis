@@ -1,14 +1,9 @@
 # Sales Performance & Strategy Analysis
 
 
-
 --- 
 
-
-
 ## Executive Summary
-
-
 
 This project evaluates the effectiveness of three sales outreach strategies used to promote a newly launched office stationery product line.
 
@@ -23,6 +18,41 @@ the project identifies which approach drives the strongest revenue performance a
 The analysis finds that the **Email + Call strategy consistently outperforms single-channel outreach**, indicating that multi-touch engagement increases conversion and revenue generation.
 
 
+---
+
+## Business Context
+
+The company recently introduced a new line of office stationery products designed to enhance creativity and brainstorming efficiency in professional environments.
+
+To support adoption, the sales team implemented three outreach strategies:
+- Email  
+- Phone Call  
+- Email + Call  
+
+### Management wants to determine:
+
+- Which strategy generates the highest revenue?
+- Does combining communication channels improve results?
+- How do customer tenure and engagement impact purchasing behavior?
+- What strategic adjustments should be made moving forward?
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
