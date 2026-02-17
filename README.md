@@ -38,10 +38,36 @@ To support adoption, the sales team implemented three outreach strategies:
 
 ---
 
+## Project Objectives
+
+- Validate dataset quality and structural integrity  
+- Identify inconsistencies and anomalies  
+- Explore revenue and behavioral patterns  
+- Compare strategy performance using quantitative analysis  
+- Deliver actionable business recommendations  
+
+---
 
 
+## Project Structure
 
+'''
 
+### sales-performance-strategy-analysis/
+├── data/                  	# Raw and processed data
+│
+├── Docs/                  	# Documentation, Instruction
+│
+├── notebooks/             	# Jupyter notebooks with analysis
+│   ├── 01_data_validation/   	# Exploratory Data Analysis
+│   ├── 02_eda/ 		# Data Cleaning and Transformation
+│   └── 03_analysis/     	# Data Analysis & Statistical Testing
+│
+├── README.md              	# Project documentation
+│
+└── .gitignore             	# Files/folders to exclude from Git
+
+'''
 
 
 
