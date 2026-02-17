@@ -50,7 +50,7 @@ To support adoption, the sales team implemented three outreach strategies:
 
 ## Project Structure
 
-'''
+```text
 
 sales-performance-strategy-analysis
 ├── data/              # Raw and processed data
@@ -66,7 +66,7 @@ sales-performance-strategy-analysis
 │
 └── .gitignore         # Files/folders to exclude from Git
 
-'''
+```
 
 ---
 
