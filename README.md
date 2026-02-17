@@ -1,4 +1,8 @@
-\# Sales Performance \& Strategy Analysis
+\#Sales Performance \& Strategy Analysis
+
+
+
+--- 
 
 
 
@@ -17,4 +21,6 @@ Using a structured analytics workflow — \*\*Data Validation → Exploratory Da
 The analysis finds that the \*\*Email + Call strategy consistently outperforms single-channel outreach\*\*, indicating that multi-touch engagement increases conversion and revenue generation.
 
 
+
+---
 
