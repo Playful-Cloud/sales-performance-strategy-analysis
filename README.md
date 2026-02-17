@@ -17,7 +17,6 @@ the project identifies which approach drives the strongest revenue performance a
 
 The analysis finds that the **Email + Call strategy consistently outperforms single-channel outreach**, indicating that multi-touch engagement increases conversion and revenue generation.
 
-
 ---
 
 ## Business Context
@@ -38,6 +37,16 @@ To support adoption, the sales team implemented three outreach strategies:
 
 ---
 
+## Project Objectives
+
+- Validate dataset quality and structural integrity  
+- Identify inconsistencies and anomalies  
+- Explore revenue and behavioral patterns  
+- Compare strategy performance using quantitative analysis  
+- Deliver actionable business recommendations  
+
+---
+
 ## Tools & Technologies
 
 - Python  
@@ -46,16 +55,6 @@ To support adoption, the sales team implemented three outreach strategies:
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-
----
-
-## Project Objectives
-
-- Validate dataset quality and structural integrity  
-- Identify inconsistencies and anomalies  
-- Explore revenue and behavioral patterns  
-- Compare strategy performance using quantitative analysis  
-- Deliver actionable business recommendations  
 
 ---
 
